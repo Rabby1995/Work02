@@ -1,0 +1,41 @@
+@font-face{
+	font-family:"cabin";
+	src:url("../font/Cabin-Regular.eot") format("eot"),
+	url("../font/Cabin-Regular.woff") format("woff"),
+	url("../font/Cabin-Regular.ttf") format("truetype"),
+	url("../font/Cabin-Regular.svg#Cabin-Regular") format("svg");
+}
+@font-face{
+	font-family:"lato";
+	src:url("../font/Lato-Regular.eot") format("eot"),
+	url("../font/Lato-Regular.woff") format("woff"),
+	url("../font/Lato-Regular.ttf") format("truetype"),
+	url("../font/Lato-Regular.svg#Lato-Regular") format("svg");
+}
+@font-face{
+	font-family:"poiretone";
+	src:url("../font/PoiretOne-Regular.eot") format("eot"),
+	url("../font/PoiretOne-Regular.woff") format("woff"),
+	url("../font/PoiretOne-Regular.ttf") format("truetype"),
+	url("../font/PoiretOne-Regular.svg#PoiretOne-Regular") format("svg");
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
